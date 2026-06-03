@@ -1,0 +1,10 @@
+Pattern,Domain,Fold_Type,Poisson_Ratio,Compression_Ratio,Degrees_of_Freedom,Energy_Absorption_Jg,Blast_Attenuation_pct,Reusability,Thermal_Efficiency_pct,Deployment_Time_min,Size_Stable,Deployment_Reliability
+Miura-ori,Aerospace,Rigid,-0.82,0.94,1,2.8,58,Cyclic,45,15,False,0.97
+Yoshimura,Aerospace,Non-Rigid,0.31,0.87,3,1.9,28,One-time,20,25,True,0.78
+Waterbomb,Medical,Rigid,0.15,0.76,2,3.4,32,One-time,15,10,True,0.85
+Resch,Architecture,Non-Rigid,0.28,0.65,5,2.1,22,One-time,65,45,True,0.7
+Kresling,Robotics,Rigid,0.09,0.83,1,4.7,45,Cyclic,30,8,True,0.91
+Eggbox,Architecture,Non-Rigid,-0.35,0.71,4,2.3,25,One-time,35,30,True,0.74
+Ron-Resch,Architecture,Semi-Rigid,0.22,0.68,6,2.6,20,One-time,60,50,True,0.67
+Hexagonal Twist,Medical,Semi-Rigid,0.18,0.6,3,3.1,30,Cyclic,25,20,True,0.82
+Triangulated Cylinder,Robotics,Rigid,0.12,0.79,2,4.1,40,Cyclic,40,12,True,0.89
